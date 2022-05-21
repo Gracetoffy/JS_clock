@@ -1,0 +1,21 @@
+body{
+background-color:darksalmon ;
+text-align: center;
+padding: 30px;
+color: antiquewhite;
+
+}
+h1{
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+}
+p{
+    font-size: 80px;
+    padding: 30px;
+    letter-spacing: 7px;
+    font-weight: 100px;
+    font-family: cursive;
+
+    
+}
